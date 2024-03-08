@@ -1515,7 +1515,7 @@ header .logo a {
 	margin-top: 2rem;
 	float: left;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-	box-shadow: 0 0 35px rgba(212, 0, 255, 0.7);
+	box-shadow: 0 0 15px rgba(212, 0, 255, 0.5);
 }
 .intro-info .lead {
 	text-align: center;
